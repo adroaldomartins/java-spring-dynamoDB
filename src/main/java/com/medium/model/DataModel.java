@@ -20,5 +20,4 @@ public class DataModel {
     public String getValue() {
         return value;
     }
-
 }
